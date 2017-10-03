@@ -5,18 +5,14 @@ Installation
 Pre-Requisites:
 ---------------
 
-***************
-Net Freamework 4.6.2
-***************
+********************
+Net Framework 4.6.2
+********************
+
 SkinText requires Net framework for correct functionning.
 
-`Download Net Framework 4.6.2 <http://google.com>`_
+Download Net Framework 4.6.2
 
-Subsubsection title..
-^^^^^^^^^^^^^^^^^^^^^
+`Offline Installer <https://www.microsoft.com/en-us/download/details.aspx?id=53344>`_
 
-
-
-Install the package with pip::
-
-    $ pip install read-the-docs-template
+`Web Installer <https://www.microsoft.com/en-us/download/details.aspx?id=53345>`_
