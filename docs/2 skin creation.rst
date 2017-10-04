@@ -11,6 +11,8 @@ All of Skintext's color can be changed to your liking even with transparency (Gr
 
 Overlayed colors will stack/fuse/add if they are semi-transparent
 
+ .. image:: img/Color.png
+
 The Color config window is organized as a table, here you can see **objects** at the left as rows and the **states** at the top as columns, lets go one by one:
 
 *****************
@@ -227,7 +229,7 @@ Box:
     A box blur (also known as a box linear filter) is a spatial domain linear filter in which each pixel in the resulting image has a value equal to the average value of its neighboring pixels in the input image. [#]_
 
 Gauss:
-^^^^^
+^^^^^^
     The visual effect of this blurring technique is a smooth blur resembling that of viewing the image through a translucent screen. [#]_
 
 *************
@@ -294,9 +296,9 @@ Skin List
 *********
 Shows a list of the currently installed skins.
 
-******************
+******************************
 Import and Export Skin Buttons
-******************
+******************************
 Whit these butons importing and exporting of skin is made really easy, for more information please read:
 
 :doc:`importing and exporting skins`

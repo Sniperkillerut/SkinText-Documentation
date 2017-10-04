@@ -10,7 +10,7 @@ Pre-Requisites:
 Net Framework 4.6.2
 ********************
 
-SkinText requires Net framework for correct functionning.
+SkinText requires Net framework for correct functioning.
 
 
 `Offline Installer <https://www.microsoft.com/en-us/download/details.aspx?id=53344>`_
