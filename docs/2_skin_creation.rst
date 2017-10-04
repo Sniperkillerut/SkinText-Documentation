@@ -100,6 +100,8 @@ Text Area
 ---------
 Here you can change how the Text Area looks like.
 
+ .. image:: img/text_config.png
+
 **************
 Rotation Angle
 **************
@@ -157,7 +159,7 @@ Resize / Move Text
 ******************
 This will allow to resize the Text Area (This is separated from the Window Size).
 
-this is different from `Resize Corner`_.
+this is different from `Resize Corner`_ from `Window`_ configuration menu.
 
 *******************
 Resize Border Width
@@ -187,6 +189,8 @@ This is for some advanced shapes when radius is set bigger than the actual width
 Background Image Configuration
 ------------------------------
 SkinText allows to skin it using images with trasnparency and even GIFs with animation.
+
+ .. image:: img/bg_img_conf.png
 
 *************
 GIF Rendering
@@ -242,6 +246,9 @@ notice that 100% will not disable/unload the image, for that use the `Clear Back
 ------
 Window
 ------
+
+ .. image:: img/window_config.png
+
 **************
 Window Opacity
 **************
@@ -289,7 +296,9 @@ If enabled SkinText will start automatically on Windows logon.
 ------------
 Skin Manager
 ------------
-Here you can Create, modify, Import, and Export your skins
+Here you can Create, modify, Import, and Export your skins.
+
+ .. image:: img/skin_mgr.png
 
 *********
 Skin List
@@ -301,7 +310,7 @@ Import and Export Skin Buttons
 ******************************
 Whit these butons importing and exporting of skin is made really easy, for more information please read:
 
-:doc:`importing and exporting skins`
+:doc:`3_importing_and_exporting_skins`
 
 *********
 Skin Name

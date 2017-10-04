@@ -1,6 +1,11 @@
 ==============================
 Importing and Exporting a Skin
 ==============================
+On the Skin Manager menu from the SkinText configuration window:
+
+ .. image:: img/skin_mgr.png
+
+You can import and export custom made skins.
 
 ----------------
 Importing a Skin
@@ -19,9 +24,6 @@ Import
 - Open SkinText Config
 - Go to Skin Manager
 - Click on the bottom left button
-
- .. image:: http://docutils.sourceforge.net/docs/user/rst/images/ball1.gif
-
 - Select the skin to import
 - Done!
 
@@ -37,9 +39,6 @@ Export
 - Go to Skin Manager
 - Select the skin to export
 - Click on the bottom left Right-button
-
- .. image:: http://docutils.sourceforge.net/docs/user/rst/images/ball1.gif
-
 - Done!
 
 *************
