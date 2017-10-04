@@ -11,7 +11,7 @@ All of Skintext's color can be changed to your liking even with transparency (Gr
 
 Overlayed colors will stack/fuse/add if they are semi-transparent
 
- .. image:: img/Colors.png
+ .. image:: img/colors.png
 
 The Color config window is organized as a table, here you can see **objects** at the left as rows and the **states** at the top as columns, lets go one by one:
 
