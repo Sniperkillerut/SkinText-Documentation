@@ -7,22 +7,24 @@ Planned Features:
 
     - [ ] Text Area: place a button to exit Text Area Selection /Resize mode.
     - [ ] Add checkbox: not possible, lost on save.
-    - [ ] Change shortcut (ctrl+shift+n) or remove.
-    - [ ] when click on notify icon: focus then hide/show.
-    - [ ] Config tab -> windows settings, Register file association
     - [ ] Make 3 main colors more noticeable.
     - [ ] Change Configs to JSON format.
-    - [ ] Change Colorpickers to Gradient Pickers. (requires JSON)
+    - [ ] Change Colorpickers to Gradient Pickers. (requires JSON for save file)
     - [ ] ARGs for skin.
     - [ ] Args for portable.
     - [ ] Move skin Mgr to main window and main windows to separate windows.
-        - [ ] allow for multiple text windows at the same time.
-        - [ ] this allows to create windows with rtb, checkboxes, paint, etc.
+        - [ ] This allows for multiple text windows at the same time.
+        - [ ] This allows to create windows with rtb, checkboxes, paint, etc.
     - [ ] Make run only once.
     - [ ] Alarm / Timer?
     - [ ] Web Updater.
     - [ ] Turn all texts into resources for translation.
+    - [ ] More refactorings.
+    - [ ] Make Open Source?
 
+    - [x] Config tab -> windows settings, Register file association
+    - [x] when click on notify icon: focus then hide/show.
+    - [x] Change shortcut (ctrl+shift+n) or remove.
     - [x] Border binding to window actual-width.
     - [x] Check dragdrop to not accept .exe .ppt or anything weird.
     - [x] Make export ignore notes file.
@@ -74,6 +76,29 @@ Planned Features:
 
 Changes:
 --------
+
+0.5.15
+******
+
+    Updated libs, deleted illusory studios lib.
+
+    Remake colorpicker style due to lib update.
+
+    Removed shortcut hotkey (ctrl+shift+n).
+
+    Moved FileAssociation to CustomMethods.
+
+    Register FileTypes checkbox added.
+
+    RegisterFileTypes added to default, save and load methods.
+
+    StartWithWindows changed to inhouse code.
+
+    RegisterFileTypes changed to inhouse code.
+
+    Textrange fix for ApplyPropertyValueToSelectedText.
+
+    Added quick show before hiding skintext window. (not working, must fix)
 
 0.5.12
 *******
