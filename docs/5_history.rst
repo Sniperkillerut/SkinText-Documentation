@@ -5,11 +5,17 @@ Change Log
 Planned Features:
 -----------------
 
+    - [ ] toolbar dropdown lost style check `github issue <https://github.com/xceedsoftware/wpftoolkit/issues/1214>`_
+    - [ ] Add link to documentation page to help on menu.
+    - [ ] Change Configuration window tab text to use button_text_color instead of text_color. (on revision)
+    - [ ] Change Configuration window tab selected tab to use button_selected_color. (on revision)
     - [ ] Text Area: place a button to exit Text Area Selection /Resize mode.
     - [ ] Add checkbox: not possible, lost on save.
     - [ ] Make 3 main colors more noticeable.
     - [ ] Change Configs to JSON format.
     - [ ] Change Colorpickers to Gradient Pickers. (requires JSON for save file)
+    - [ ] Skew Text.
+    - [ ] Position and control BG Image. (only stretched for now)
     - [ ] ARGs for skin.
     - [ ] Args for portable.
     - [ ] Move skin Mgr to main window and main windows to separate windows.
@@ -22,6 +28,7 @@ Planned Features:
     - [ ] More refactorings.
     - [ ] Make Open Source?
 
+    - [x] Fixed error when exporting a skin and the .sktskin file alredy existed.
     - [x] Config tab -> windows settings, Register file association
     - [x] when click on notify icon: focus then hide/show.
     - [x] Change shortcut (ctrl+shift+n) or remove.
@@ -76,6 +83,13 @@ Planned Features:
 
 Changes:
 --------
+
+0.5.16
+******
+    Removed debug messagebox, fix inverse if testing, fixed export when file already exists.
+    Added Reddit, DeviantArt and Help links.
+    Added selected color change to tabs, added help button, changed help tab to tips., changed tab fore color to ButtonFrontColorBrush.
+    Changed DropdDownButton style.
 
 0.5.15
 ******
