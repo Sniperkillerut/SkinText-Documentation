@@ -86,15 +86,23 @@ Changes:
 
 0.5.17
 ******
+
     Removed Macku and Poisonbleed links (temporarily)
+
     Added webpage link
+
     Updated fody
+
 
 0.5.16
 ******
+
     Removed debug messagebox, fix inverse if testing, fixed export when file already exists.
+
     Added Reddit, DeviantArt and Help links.
+
     Added selected color change to tabs, added help button, changed help tab to tips., changed tab fore color to ButtonFrontColorBrush.
+
     Changed DropdDownButton style.
 
 0.5.15
