@@ -84,6 +84,12 @@ Planned Features:
 Changes:
 --------
 
+0.5.17
+******
+    Removed Macku and Poisonbleed links (temporarily)
+    Added webpage link
+    Updated fody
+
 0.5.16
 ******
     Removed debug messagebox, fix inverse if testing, fixed export when file already exists.
