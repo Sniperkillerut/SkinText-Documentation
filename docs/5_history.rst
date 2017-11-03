@@ -84,6 +84,11 @@ Planned Features:
 Changes:
 --------
 
+0.5.18
+******
+
+    Fixed empty img error on creating new skin.
+
 0.5.17
 ******
 
